@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chong130
-- 👀 I’m interested in making friends!
-- 🌱 I’m currently learning Meng Mechatroincs Engineering and Self Learn Android App Development
+- 👀 I’m interested in learning more about Coding
+- 🌱 I’m currently learning Meng Mechatroincs Engineering and Self learned Android App Development
 - 💞️ I’m looking to collaborate on Android app design app development
 - 📫 How to reach me linkedin - https://www.linkedin.com/in/she-chong-tan-344b0823b
 
